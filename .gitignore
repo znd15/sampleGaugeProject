@@ -10,4 +10,4 @@ reports
 # Gauge - python compiled files
 *.pyc
 
-.vscode
+vscode
